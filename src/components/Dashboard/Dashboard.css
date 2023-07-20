@@ -1,0 +1,59 @@
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.header-svg img {
+    width: 500px;
+    height: 500px;
+}
+
+.header-svg{
+    margin-right: 50px;
+}
+
+.header-text{
+    flex: 1;
+    margin-left: 50px;
+}
+
+.head-bold{
+    font-weight: 800;
+    font-size:60px;
+    
+}
+
+.head-subjects {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.math {
+    justify-content: center;
+    margin: 0 1rem;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-flex; /* or display: inline-block */
+    width: 70px;
+    font-size: 20px;
+    font-weight: 800;
+    background-color: white;
+    cursor: pointer;
+  }
+  
+  
+
+.subjects-banner{
+    background-color:#c8EFF9;
+    padding: 50px;
+}
+
+.head-desc{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+

@@ -1,0 +1,49 @@
+.footer {
+
+    background-color: #f2f2f2;
+    display: flex;
+    /* Add display: flex; */
+    justify-content: center;
+    /* Add justify-content: center; */
+    align-items: center;
+    /* Optional: Center vertically if needed */
+    font-size: 18px;
+    font-weight: 800;
+
+
+}
+
+.footer-2{
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    padding-bottom: 15px;
+    font-weight: 800;
+}
+
+
+.foot-1{
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    padding-bottom: 15px;
+    font-weight: 800;
+}
+
+.foot-1 a{
+    color: black;
+}
+
+.foot-2{
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    padding-bottom: 15px;
+    font-weight: 800;
+}
